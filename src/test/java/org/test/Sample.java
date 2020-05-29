@@ -7,7 +7,8 @@ public class Sample {
 		System.out.println("hi");	
     System.out.println("welcome");
     System.out.println("happy");
-	
+    System.out.println("Birthday");
+	System.out.println("Have a Splendid birthday");
 
 
 	}
